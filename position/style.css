@@ -1,0 +1,26 @@
+*{
+    margin: 0px;
+    padding:0px;
+
+}
+
+.quadrado1{
+    background-color: rgba(255, 138, 4, 0.883);
+    width: 200px;
+    height: 200px;
+}
+.quadrado2{
+    background-color: rgba(205, 108, 100, 0.883);
+    width: 200px;
+    height: 200px;
+}
+.quadrado3{
+    background-color: royalblue;
+    width: 200px;
+    height: 200px;
+}
+.quadrado4{
+    background-color: seagreen;
+    width: 200px;
+    height: 200px;
+}
